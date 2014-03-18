@@ -28,6 +28,6 @@ And then include it in your application module:
             AndroidEventsModule.class
         },
         // ...
-    }
+    )
     // ...
 ```
